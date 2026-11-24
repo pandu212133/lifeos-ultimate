@@ -1,2 +1,2 @@
-# lifeos-ultimate
-Personal life os
+# LifeOS Ultimate 1.0
+Upload all files in this folder to a NEW GitHub repository, enable Pages from main/root, open its HTTPS URL in Safari, Share > Add to Home Screen. Do not upload to ChessForge. No paid service required within GitHub Pages limits. First load requires internet. LocalStorage is device/browser specific; export JSON in Backup regularly. Restore replaces data. No automatic sync, push notifications, Apple Health integration, cloud AI or medical recommendations. Focus timer needs the page open; closing it loses active session. Health and financial logs are manual and unencrypted. Test locally using `node test.mjs` and `python -m http.server 8000` (open localhost:8000). Live iOS/browser testing not performed. Test add/edit/delete, reload, export/restore, airplane mode after first load, and home-screen installation before relying on it.
